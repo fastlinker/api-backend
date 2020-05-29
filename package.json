@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Code structure for backend",
   "main": "server.js",
-  "repository": "https://github.com/fastlinker/node-backend-structure",
+  "repository": "https://github.com/fastlinker/api-backend",
   "author": "fastlinker <charlesmaina8848@gmail.com>",
   "license": "MIT",
   "private": false,
